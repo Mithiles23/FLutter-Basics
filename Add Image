@@ -1,0 +1,6 @@
+child: Column(
+            children: <Widget>[
+              CircleAvatar(
+                radius: 60.0,
+                backgroundImage: AssetImage('images/Mitz.jpg'),
+              ),
