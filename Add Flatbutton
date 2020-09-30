@@ -1,0 +1,12 @@
+Expanded(
+            child: FlatButton(
+              onPressed: () {
+                setState(() {
+                  leftdicenumber = Random ().nextInt (6) + 1;
+                });
+              },
+              child: Image(
+               
+              ),
+            ),
+          ),
