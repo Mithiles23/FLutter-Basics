@@ -2,5 +2,8 @@ child: Column(
             children: <Widget>[
               CircleAvatar(
                 radius: 60.0,
+                 Icon(
+                        Icons.phone,
+                        color: Colors.teal,
                 backgroundImage: AssetImage('images/Mitz.jpg'),
               ),
